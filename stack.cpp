@@ -1,14 +1,10 @@
 #include<iostream>
 #include<algorithm>
+#include<stack>
 using namespace std;
 
-struct Node{
-    int data;
-    Node* left;
-    Node* right;
-};
+
 
 int main(){
-    Node* root;
     
 }
