@@ -1,8 +1,14 @@
 #include<iostream>
 #include<algorithm>
-#include<tree>
 using namespace std;
 
-int main(){
+struct Node{
+    int data;
+    Node* left;
+    Node* right;
+};
 
+int main(){
+    Node* root;
+    
 }
